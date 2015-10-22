@@ -26,4 +26,4 @@
 
 ## Chapter 1
 
-[README](awesome/chapter 1/README.md)
+[README](https://github.com/jjparknet/awesome/blob/master/chapter%201/README.md)

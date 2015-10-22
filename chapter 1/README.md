@@ -22,7 +22,11 @@
 
      ```
     $ npm start (or node .\bin\www)
-    ```    
+    ```  
+    or
+     ```
+    $ node .\bin\www
+    ```
     
 7. Edit app.js, express static path.
     

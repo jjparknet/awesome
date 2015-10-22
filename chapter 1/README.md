@@ -36,4 +36,4 @@
 2. Move project directory.
 3. Install HTML5 Boilerplate. [download](https://html5boilerplate.com/)
 4. Install Bootstrap. [download](http://getbootstrap.com/)
-5. Open browser, go http://localhost:3000
+5. Open browser, go [http://localhost:3000](http://localhost:3000)
